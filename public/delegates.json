@@ -400,5 +400,11 @@
         "url": "1t1b.ai",
         "description": "official 1t1b.ai validator",
         "signature": "1eca7254f17c62a150490826212fb55542117d42b658c06f2edfdd61d05b7c2cab53ee2ff1b051bfd9ea2e91d4e8e60746b4d66f15a5bf26ef94d334ba586e8d"
+    },
+    "5C833KmE5EKewCVU3RzKxpQB4BV7Ui7y3phGsWC74pxepca2": {
+        "name": "Delta Infinity",
+        "url": "",
+        "description": "BTC.InfinityVali.ai",
+        "signature": "4810a559e1530f59d7161e97798da9aae5bee82c3cbcdb51f040fbdbb6556a6a2eb5904089190897d315303842cbc309213bed07322c83a30d27fe908695298f"
     }
 }
